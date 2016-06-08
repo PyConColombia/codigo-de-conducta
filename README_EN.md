@@ -25,4 +25,4 @@ In case of any violation to the code of conduct by the organizers please contact
 
 LICENSE
 Creative Commons License
-Conference Code of Conduct by http://us.pycon.org/2012/codeofconduct/ is licensed under a Creative Commons Attribution 3.0 Unported License.
+Conference Code of Conduct adapted from by http://us.pycon.org/2012/codeofconduct/ is licensed under a Creative Commons Attribution 3.0 Unported License.
