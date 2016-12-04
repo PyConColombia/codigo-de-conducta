@@ -12,7 +12,7 @@ Participantes de nuestra comunidad de cualquier tipo (Organizadores, Ponentes, V
 
 ##Información de Contacto
 Si usted ha sido acosado, o se da cuenta de que alguien más está siendo acosado o está violando los términos de Pycon Internacionales o tiene algún problema, por favor contacte nuestros organizadores:
-Gustavo Angulo, Jhon Roa, Alejandro Correa Bahnsen PhD, Andrea Molina Monroy, Nicolas Molina Monroy, Ivan Ramírez y Mario Morales.
+[John Roa](john@pycon.co), [Mario Morales](mario@pycon.co).
 
 Nuestro equipo en la conferencia también estara disponible para colaborarle y contactar la seguridad local, la policía colombiana a asistirlo y para garantizar su seguridad. Nosotros valoramos su presencia en nuestros eventos.
-En caso de alguna violación a los términos de este código de conducta por parte de los organizadores por favor contactar el Chair de la conferencia o como última instancia el PSF psf@python.org.
+En caso de alguna violación a los términos de este código de conducta por parte de los organizadores por favor contactar el Chair de la conferencia [John Roa](john@pycon.co) o como última instancia el PSF psf@python.org.
