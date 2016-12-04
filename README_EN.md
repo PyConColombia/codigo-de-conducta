@@ -16,12 +16,12 @@ Be careful in the words that you choose. Remember that sexist, racist, and other
 If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund. Thank you for helping make this a welcoming, friendly event for all.
 
 ##Contact Information
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "PyCon Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair — Gustavo Angulo.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "PyCon Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair — [John Roa](mailto:john@pycon.co).
 
 If the matter's especially urgent, please contact any of these individuals: [John Roa](mailto:john@pycon.co), [Mario Morales](mailto:mario@pycon.co).
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement (Colombian Police), provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
-In case of any violation to the code of conduct by the organizers please contact the chair of the conference [John Roa](mailto:john@pycon.co) or in the last instance the Python Software Foundation PSF psf@python.org.
+In case of any violation to the code of conduct by the organizers please contact the chair of the conference or in the last instance the Python Software Foundation PSF psf@python.org.
 
 LICENSE
 Creative Commons License
